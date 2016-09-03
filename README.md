@@ -2,6 +2,8 @@ Website Themes
 ================================
 The Github Light Blue Theme is based on the material design color palettes found [here](https://material.google.com/style/color.html).
 
+The Github Dark Green Theme is based on the material design color palettes found [here](https://material.google.com/style/color.html).
+
 Usage
 ================================
 1. Use `git clone https://github.com/lolzcatz/WebsiteThemes.git` to clone the repo
